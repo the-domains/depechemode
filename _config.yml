@@ -1,6 +1,6 @@
 name: depechemode
 favicon: null
-layout_spectrum: 0.6259223141241819
+layout_spectrum: 0.29171
 typography_spectrum: 0.4038562634959817
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6664967311080545
+    - '#fcfcfe'
+    - '#81a4ca'
+    - '#740001'
+    - '#1f232c'
+    - '#8e6c46'
+  brandStrength: 1
   lightness: 0.9014149983413517
-  saturation: 0.6590945988427848
-  rhythmicContrast: 0.6070593846961856
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []
